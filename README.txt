@@ -1,2 +1,1 @@
-ini adalah repositori baru saya lewat termux
-
+berhasil membuat push ke 2
